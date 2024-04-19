@@ -1,0 +1,1 @@
+Designed and built for the Advanced Web Development course (Int222), this Fullstack Blog website represents the culmination of in-depth learning and practical application of web development principles.
